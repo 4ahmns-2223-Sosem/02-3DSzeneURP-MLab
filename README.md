@@ -23,5 +23,5 @@ MacOS BigSur, Visual Studio 2019, Unity 2020.3.18f1
 + For
 
 ## Lessons learned:
-- [x] mit git arbeiten
+- [] mit git arbeiten
 - [x] Scenen switchen
