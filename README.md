@@ -6,6 +6,22 @@
 **Entwicklungsplattform:** 
 MacOS BigSur, Visual Studio 2019, Unity 2020.3.18f1
 
-**Lessons Learned:** 
 
-**Limitations:**
+
+## Einblicke ins Konzept und Game:
+
+
+## Audios:
++ Mono: TeleportSound, Walkingsound,
++ Stereo: GluehbirnenSound (nicht eingebaut)
++ Stereo Loops: Walking sounds (nicht fertiggestellt
+
+## Syntaxelemente:
++ Methodenaufruf 
++ If/Else 
++ Array
++ For
+
+## Lessons learned:
+- [x] mit git arbeiten
+- [x] Scenen switchen
